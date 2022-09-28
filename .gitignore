@@ -1,0 +1,10 @@
+**/.terraform
+**/terraform.tfstate*
+**/terraform.tfvars
+**/*.auto.tfvars
+**/.terraform.tfstate.lock.info
+**/.terraform.lock.hcl
+**/credential.json
+**/assertion.txt
+**/access_token.txt
+**/id_rsa
